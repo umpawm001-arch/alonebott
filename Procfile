@@ -1,1 +1,1 @@
-worker: python alone.py
+
